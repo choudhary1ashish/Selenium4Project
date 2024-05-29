@@ -1,0 +1,37 @@
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class LoginAutomation {
+    public static void main(String[] args) {
+        System.setProperty("webdrive.chrome.driver", "C:\\Users\\ashish.k.choudhary\\Downloads\\chromedriver_win32\\chromedriver.exe");
+     WebDriver driver = new ChromeDriver();
+     driver.get("https://subscription-dev.businessreview.global/subscription");
+     
+
+    }
+
+//input[@placeholder='Username']
+
+
+NSLOOKUP, TRACEROUTE etc
+
+
+
+
+Working as a S
+
+
+
+
+
+
+
+
+
+As soon as we registered a user, We dont get the complete articles, it just half article, which we were showing before user registered.
+
+Earlier what used to happen that we used to ask the registerd user to subscribe to show the complete article.
+
+
+
+
